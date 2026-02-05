@@ -62,5 +62,5 @@ ___
 
 - Přidána dimenze pro unikátní názvy firem, unikátní dovednosti (skills) a propojovací tabulka (bridging table) s ID inzerátu a dovednostmi uvedenými u každé nabídky.
 - **Vztahy:** many-to-one (mnoho k jedné), many-to-many (mnoho k mnoha).
-- **Sloupce:**ID_postings, ID_skills, ID_company_name
-- **Rychlá míra:**Salary Star Rating, HOURLY_SALARY_MISSING_VALUES, YEARLY_SALARY_MISSING_VALUES
+- **Sloupce:** ID_postings, ID_skills, ID_company_name
+- **Rychlá míra:** Salary Star Rating, HOURLY_SALARY_MISSING_VALUES, YEARLY_SALARY_MISSING_VALUES
